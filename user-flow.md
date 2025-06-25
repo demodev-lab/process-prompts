@@ -269,3 +269,5 @@ find src/components/ -name "*.tsx" | head -20
 - **실시간 피드백**: 바이브 코딩 세션에서 즉시 적용
 
 **준비 완료! Claude Code에서 위 순서대로 실행하여 기존 프론트엔드 기반 User Flow와 Mermaid 다이어그램을 생성하세요!** 🚀
+
+- **Docs** 폴더에 userflow.md로 내용을 저장하세요.
